@@ -702,6 +702,7 @@ Tools to help you build on Cardano:
 
 ### NFT platforms & Projects ###
 - [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
+- [ARARE Gallery](https://discord.gg/qm42tNEauh)
 - [Adalotls & Co.](https://t.co/q2PgM0cVXd?amp=1)
 - [ADACoinsNFT](https://www.adacoins.xyz)
 - [Ada Slimes](https://adaslimes.com/)
@@ -980,6 +981,7 @@ Tools to help you build on Cardano:
 
 ### 🎱 Stake Pool Alliances 🎱 ###
 - [Alliance list](https://adapools.org/alli)
+- [xSPO Alliance](https://www.xspo-alliance.org/)
 - [Armada Alliance](https://armada-alliance.com)
 - [Cardano Single Pool Alliance ](https://singlepoolalliance.net/)
 - [Cardano Bare Metal Alliance](https://cardanobaremetal.com/)
